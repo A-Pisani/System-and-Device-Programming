@@ -28,7 +28,7 @@ int main(int argc, char **argv) {
         printf("Error! opening file 2");
         exit(2);
     }
-    
+
     while(fscanf(file1, "%d%ld%s%s%d", &s.id, &s.rNum, s.sur, s.name, &s.mark ) != EOF){
         if(write(file2, &s, sizeof(Student))==-1){
             fprintf(stderr,"Error in Write I/O\n");
