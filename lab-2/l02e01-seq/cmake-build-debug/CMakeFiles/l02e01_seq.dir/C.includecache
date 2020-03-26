@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alessandro Pisani/Desktop/System & Device Programming/Quer/lab-2020/lab-2/l02e01-seq/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+C:/Users/Alessandro Pisani/Desktop/System & Device Programming/Quer/lab-2020/lab-2/l02e01-seq/pthread.h
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+C:/Users/Alessandro Pisani/Desktop/System & Device Programming/Quer/lab-2020/lab-2/l02e01-seq/pthread.h
+
