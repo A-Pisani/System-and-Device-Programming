@@ -5,5 +5,6 @@ Each thread
 -	Reads concurrently the file, and performs the sum of the read integer numbers 
 -	When the end of file is reached, it must print the number of integer numbers it has read and the computed sum 
 -	Terminates  
+
 After all threads terminate, the main thread has to print the total number of integer numbers and the total sum 
 
