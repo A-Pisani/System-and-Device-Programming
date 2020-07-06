@@ -1,3 +1,0 @@
-C:/Users/Alessandro Pisani/Desktop/System & Device Programming/Quer/lab-2020/lab-2/l02e01-seq/cmake-build-debug/CMakeFiles/l02e01_seq.dir
-C:/Users/Alessandro Pisani/Desktop/System & Device Programming/Quer/lab-2020/lab-2/l02e01-seq/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Alessandro Pisani/Desktop/System & Device Programming/Quer/lab-2020/lab-2/l02e01-seq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
